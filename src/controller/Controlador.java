@@ -61,7 +61,7 @@ public class Controlador implements ActionListener {
         if(r==1){
         JOptionPane.showMessageDialog(vista,"¡¡Tripulante agregado con exito!!");}
         else{
-        JOptionPane.showMessageDialog(vista,"¡¡Error al agregar al tripulante!!"); }
+        JOptionPane.showMessageDialog(vista,"¡¡!!"); }
     
     }
     
